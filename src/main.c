@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
-#include < assert.h >
+#include <assert.h>
 
 #define MAX_EXP 6
 
